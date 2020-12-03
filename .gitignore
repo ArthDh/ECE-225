@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 # Idea Folder
-/.idea/
+.idea/
+
+*.gitignore
