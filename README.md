@@ -1,7 +1,7 @@
 # ECE-225 Final Project
 
 ## US Unemployment Rate Analysis
-####Problem:
+Problem:
 In this project we plan to address various questions regarding unemployment in the United States
 using data from the United States Department of Labor’s Bureau of Labor Statistics.
 
@@ -35,3 +35,14 @@ Project steps
 | 1. Extracting and cleaning up data |One week |Extracting additional data for 2016-2020|
 |2. Data Visualizations| Two week| Assign Geo Codes to Counties, Map Distribution|
 |3. Regression Model| One week |Using time series data to create a regression model|
+
+## New York Plots 
+
+### Rolling Averages
+![alt text](https://github.com/ArthDh/ECE-225/blob/dev/Images/ny_rolling_avg.png "Rolling Averages")
+
+### Historcial Crashes
+![alt text](https://github.com/ArthDh/ECE-225/blob/dev/Images/ny_ca_events.png)
+
+### ARIMA Model
+![alt text](https://github.com/ArthDh/ECE-225/blob/dev/Images/ny_county_model.png)
